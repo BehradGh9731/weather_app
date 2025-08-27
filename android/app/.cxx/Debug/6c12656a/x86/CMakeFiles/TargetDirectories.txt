@@ -1,0 +1,2 @@
+F:/Flutter/wheater app backup/Main that works/weather_app/android/app/.cxx/Debug/6c12656a/x86/CMakeFiles/edit_cache.dir
+F:/Flutter/wheater app backup/Main that works/weather_app/android/app/.cxx/Debug/6c12656a/x86/CMakeFiles/rebuild_cache.dir
